@@ -1,0 +1,17 @@
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Utilitarios\bin\Debug\Utilitarios.dll
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Utilitarios\bin\Debug\Utilitarios.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Utilitarios\obj\Debug\Utilitarios.dll
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Utilitarios\obj\Debug\Utilitarios.pdb
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Utilitarios\bin\Debug\Utilitarios.dll
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Utilitarios\bin\Debug\Utilitarios.pdb
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Utilitarios\obj\Debug\Utilitarios.dll
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Utilitarios\obj\Debug\Utilitarios.pdb
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Utilitarios\bin\Debug\Utilitarios.dll
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Utilitarios\bin\Debug\Utilitarios.pdb
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Utilitarios\obj\Debug\Utilitarios.dll
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Utilitarios\obj\Debug\Utilitarios.pdb
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Utilitarios\bin\Debug\Utilitarios.dll
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Utilitarios\bin\Debug\Utilitarios.pdb
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Utilitarios\obj\Debug\Utilitarios.dll
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Utilitarios\obj\Debug\Utilitarios.pdb
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Utilitarios\obj\Debug\Utilitarios.csprojResolveAssemblyReference.cache

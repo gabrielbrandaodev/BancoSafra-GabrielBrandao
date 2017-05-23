@@ -1,0 +1,70 @@
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\Validacoes.dll
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\Validacoes.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\Dados.dll
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\Dominio.dll
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\FluentValidation.dll
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\EntityFramework.dll
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\Utilitarios.dll
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\Dados.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\Dominio.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\FluentValidation.xml
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\EntityFramework.xml
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\Utilitarios.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Validacoes\obj\Debug\Validacoes.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Validacoes\obj\Debug\Validacoes.dll
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Validacoes\obj\Debug\Validacoes.pdb
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\Validacoes.dll
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\Validacoes.pdb
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\Dados.dll
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\Dominio.dll
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\FluentValidation.dll
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\EntityFramework.dll
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\Utilitarios.dll
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\Dados.pdb
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\Dominio.pdb
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\FluentValidation.xml
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\EntityFramework.xml
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\Utilitarios.pdb
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\obj\Debug\Validacoes.csprojResolveAssemblyReference.cache
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\obj\Debug\Validacoes.dll
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\obj\Debug\Validacoes.pdb
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\Validacoes.dll.config
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\EntityFramework.SqlServer.dll
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\Validacoes.dll.config
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\Validacoes.dll
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\Validacoes.pdb
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\Dados.dll
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\Dominio.dll
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\EntityFramework.dll
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\FluentValidation.dll
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\Utilitarios.dll
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\Dados.pdb
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\Dominio.pdb
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\EntityFramework.xml
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\FluentValidation.xml
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\Utilitarios.pdb
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\obj\Debug\Validacoes.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\obj\Debug\Validacoes.dll
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\obj\Debug\Validacoes.pdb
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\Validacoes.dll.config
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\Validacoes.dll
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\Validacoes.pdb
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\Dados.dll
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\Dominio.dll
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\EntityFramework.dll
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\FluentValidation.dll
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\Utilitarios.dll
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\Dados.pdb
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\Dominio.pdb
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\EntityFramework.xml
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\FluentValidation.xml
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\Utilitarios.pdb
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\obj\Debug\Validacoes.csprojResolveAssemblyReference.cache
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\obj\Debug\Validacoes.dll
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\obj\Debug\Validacoes.pdb
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Validacoes\bin\Debug\Dados.dll.config

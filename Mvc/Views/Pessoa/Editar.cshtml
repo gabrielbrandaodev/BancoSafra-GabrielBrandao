@@ -1,0 +1,16 @@
+﻿@model Negocios.ViewModels.PessoaViewModel
+
+@{
+    ViewBag.Title = "Editar Pessoa";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using (Html.BeginForm("Editar", "Pessoa", FormMethod.Post))
+{
+    <div class="hidden">
+        @Html.HiddenFor(x => x.PessoaId)
+    </div>
+
+    Html.RenderPartial("_PartialPessoa", Model);
+}
+

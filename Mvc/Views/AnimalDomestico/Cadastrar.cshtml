@@ -1,0 +1,12 @@
+﻿@model Negocios.ViewModels.AnimalDomesticoViewModel
+
+@{
+    ViewBag.Title = "Novo Animal";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using (Html.BeginForm("Cadastrar", "AnimalDomestico", FormMethod.Post))
+{
+    Html.RenderPartial("_PartialAnimalDomestico", Model);
+}
+

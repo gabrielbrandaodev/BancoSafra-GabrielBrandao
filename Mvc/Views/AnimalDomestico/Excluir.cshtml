@@ -1,0 +1,39 @@
+﻿@model Negocios.ViewModels.AnimalDomesticoViewModel
+
+@{
+    ViewBag.Title = "Excluir Animal";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Excluir</h2>
+
+<h3>Deseja realmente excluir este animal?</h3>
+<div>
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Pessoa)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Pessoa.Nome)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm("Excluir", "AnimalDomestico", FormMethod.Post))
+    {
+        @Html.AntiForgeryToken()
+        <div class="hidden">@Html.EditorFor(x => x.AnimalDomesticoId)</div>
+        <div class="form-actions no-color">
+            <input type="submit" value="Excluir" class="btn btn-default" /> |
+            @Html.ActionLink("Voltar", "Listar")
+        </div>
+    }
+</div>

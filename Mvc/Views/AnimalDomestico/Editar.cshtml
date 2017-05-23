@@ -1,0 +1,16 @@
+﻿@model Negocios.ViewModels.AnimalDomesticoViewModel
+
+@{
+    ViewBag.Title = "Editar Animal";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using (Html.BeginForm("Editar", "AnimalDomestico", FormMethod.Post))
+{
+    <div class="hidden">
+        @Html.HiddenFor(x => x.AnimalDomesticoId)
+    </div>
+
+    Html.RenderPartial("_PartialAnimalDomestico", Model);
+}
+

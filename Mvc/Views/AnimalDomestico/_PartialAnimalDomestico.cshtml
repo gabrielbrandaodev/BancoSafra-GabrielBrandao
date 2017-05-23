@@ -1,0 +1,68 @@
+﻿@model Negocios.ViewModels.AnimalDomesticoViewModel
+
+@{
+}
+
+@Html.AntiForgeryToken()
+
+<div class="form-horizontal">
+    <h4>@ViewBag.Title</h4>
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+    @if (ViewBag.ErrosValidacao != null)
+    {
+        <div class="alert alert-danger">
+            <ul>
+                @foreach (var erro in ViewBag.ErrosValidacao)
+                {
+                    <li> @erro.ErrorMessage </li>
+                }
+            </ul>
+        </div>
+    }
+
+    <div class="form-group">
+        @Html.LabelFor(x => x.PessoaId, new { @class = "col-md-2 control-label" })
+        <div class="col-md-6">
+            @Html.DropDownListFor(x => x.PessoaId, ViewBag.Pessoas as SelectList, new { @class = "form-control obrigatorio", required = "required" })
+            @Html.ValidationMessageFor(model => model.PessoaId, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Nome, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-6">
+            @Html.EditorFor(model => model.Nome, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Nome, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(x => x.TipoAnimal, new { @class = "col-md-2 control-label" })
+        <div class="col-md-6">
+            @Html.DropDownListFor(x => x.TipoAnimal, ViewBag.TiposDeAnimais as SelectList, new { @class = "form-control obrigatorio", required = "required" })
+            @Html.ValidationMessageFor(model => model.TipoAnimal, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-2"></div>
+        <div class="col-md-6">
+            <div class="checkbox">
+                <label>
+                    <input type="checkbox" id="AnimalCastrado" name="AnimalCastrado"> Animal Castrado
+                </label>
+            </div>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Salvar" class="btn btn-primary" />
+            <a href="/AnimalDomestico/Listar" class="btn btn-default"> Cancelar </a>
+        </div>
+    </div>
+</div>
+
+

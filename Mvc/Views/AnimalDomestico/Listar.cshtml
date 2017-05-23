@@ -1,0 +1,56 @@
+﻿@model ICollection<Negocios.ViewModels.AnimalDomesticoViewModel>
+
+@{
+    ViewBag.Title = "Listar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="table-responsive col-md-12">
+
+    <div class="row">
+        <div class="col-md-9">
+            <h2>Listar</h2>
+        </div>
+
+        <div class="col-md-3">
+            <a href="/AnimalDomestico/Cadastrar" class="btn btn-primary pull-right h2"> Cadastrar </a>
+        </div>
+    </div>
+
+
+    <table class="table table-striped" cellpadding="0" cellspacing="0">
+        <thead>
+            <tr>
+                <td> Nome </td>
+                <td> Tipo </td>
+                <td> Dono </td>
+                <td> Animal Castrado? </td>
+                <td>  </td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var animal in Model)
+            {
+                <tr>
+                    <td> @animal.Nome </td>
+                    <td> @animal.TipoAnimalToString </td>
+                    <td> @animal.Pessoa.Nome </td>
+                    @if (animal.AnimalCastrado)
+                {
+                        <td> Sim </td>
+                    }
+                    else
+                    {
+                        <td> Não </td>
+                    }
+
+                    <td class="actions">
+                        <a href="/AnimalDomestico/Editar/@animal.AnimalDomesticoId" class="btn btn-default btn-xs"> Editar </a>
+                        <a href="/AnimalDomestico/Excluir/@animal.AnimalDomesticoId" class="btn btn-danger btn-xs"> Excluir </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+

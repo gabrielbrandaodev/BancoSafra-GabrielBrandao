@@ -1,0 +1,12 @@
+﻿@model Negocios.ViewModels.PessoaViewModel
+
+@{
+    ViewBag.Title = "Nova Pessoa";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using (Html.BeginForm("Cadastrar", "Pessoa", FormMethod.Post))
+{
+    Html.RenderPartial("_PartialPessoa", Model);
+}
+

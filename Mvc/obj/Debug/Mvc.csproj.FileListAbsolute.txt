@@ -1,0 +1,314 @@
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\obj\Debug\Mvc.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\csc.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\csc.exe.config
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\csc.rsp
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\csi.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\csi.rsp
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\System.AppContext.dll
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\vbc.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\vbc.exe.config
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\vbc.rsp
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\VBCSCompiler.exe
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\Mvc.dll.config
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\Mvc.dll
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\Mvc.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\Dados.dll
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\EntityFramework.dll
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\EntityFramework.SqlServer.dll
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\Negocios.dll
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Helpers.dll
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Mvc.dll
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Razor.dll
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Webpages.dll
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Webpages.Razor.dll
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\Dominio.dll
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\Utilitarios.dll
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\AutoMapper.dll
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\Validacoes.dll
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\Dados.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\Negocios.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\EntityFramework.xml
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\EntityFramework.SqlServer.xml
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Razor.xml
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Webpages.xml
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Webpages.Razor.xml
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Helpers.xml
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Mvc.xml
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\Dominio.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\Utilitarios.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\AutoMapper.xml
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\bin\Validacoes.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\obj\Debug\Mvc.dll
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Mvc\obj\Debug\Mvc.pdb
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\obj\Debug\Mvc.csprojResolveAssemblyReference.cache
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\csc.exe
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\csc.exe.config
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\csc.rsp
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\csi.exe
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\csi.rsp
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\System.AppContext.dll
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\System.Collections.Immutable.dll
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\System.IO.FileSystem.dll
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\System.Reflection.Metadata.dll
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\vbc.exe
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\vbc.exe.config
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\vbc.rsp
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\VBCSCompiler.exe
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\VBCSCompiler.exe.config
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Mvc.dll.config
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Mvc.dll
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Mvc.pdb
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Dados.dll
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\EntityFramework.dll
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\EntityFramework.SqlServer.dll
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Negocios.dll
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Helpers.dll
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Mvc.dll
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Razor.dll
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Webpages.Deployment.dll
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Webpages.dll
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Webpages.Razor.dll
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Utilitarios.dll
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Dominio.dll
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\AutoMapper.dll
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Validacoes.dll
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Dados.pdb
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Negocios.pdb
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Utilitarios.pdb
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\EntityFramework.xml
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\EntityFramework.SqlServer.xml
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Razor.xml
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Webpages.xml
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Webpages.Deployment.xml
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Webpages.Razor.xml
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Helpers.xml
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Mvc.xml
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Dominio.pdb
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\AutoMapper.xml
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Validacoes.pdb
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\obj\Debug\Mvc.dll
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\obj\Debug\Mvc.pdb
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\csc.exe
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\csc.exe.config
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\csc.rsp
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\csi.exe
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\csi.rsp
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\System.AppContext.dll
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\vbc.exe
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\vbc.exe.config
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\vbc.rsp
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\VBCSCompiler.exe
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Mvc.dll.config
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Mvc.dll
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Mvc.pdb
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Dados.dll
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\EntityFramework.dll
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\EntityFramework.SqlServer.dll
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Negocios.dll
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Helpers.dll
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Mvc.dll
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Razor.dll
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Webpages.dll
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Webpages.Razor.dll
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Utilitarios.dll
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Dominio.dll
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Validacoes.dll
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Dados.pdb
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Negocios.pdb
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Utilitarios.pdb
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\EntityFramework.xml
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\EntityFramework.SqlServer.xml
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Razor.xml
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Webpages.xml
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Webpages.Razor.xml
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Helpers.xml
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Mvc.xml
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Dominio.pdb
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Validacoes.pdb
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\obj\Debug\Mvc.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\obj\Debug\Mvc.dll
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\obj\Debug\Mvc.pdb
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\csc.exe
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\csc.exe.config
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\csc.rsp
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\csi.exe
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\csi.rsp
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\System.AppContext.dll
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\vbc.exe
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\vbc.exe.config
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\vbc.rsp
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\VBCSCompiler.exe
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Mvc.dll.config
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Mvc.dll
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Mvc.pdb
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Dados.dll
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\EntityFramework.dll
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\EntityFramework.SqlServer.dll
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Negocios.dll
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Helpers.dll
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Mvc.dll
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Razor.dll
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Webpages.Deployment.dll
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Webpages.dll
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Webpages.Razor.dll
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Utilitarios.dll
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Dominio.dll
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Validacoes.dll
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Dados.pdb
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Negocios.pdb
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Utilitarios.pdb
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\EntityFramework.xml
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\EntityFramework.SqlServer.xml
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Razor.xml
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Webpages.xml
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Webpages.Deployment.xml
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Webpages.Razor.xml
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Helpers.xml
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Mvc.xml
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Dominio.pdb
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Validacoes.pdb
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\obj\Debug\Mvc.csprojResolveAssemblyReference.cache
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\obj\Debug\Mvc.dll
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\obj\Debug\Mvc.pdb
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Dados.dll.config
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Negocios.dll.config
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Validacoes.dll.config
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\csc.exe
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\csc.exe.config
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\csc.rsp
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\csi.exe
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\csi.rsp
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\System.AppContext.dll
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\System.Collections.Immutable.dll
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\System.IO.FileSystem.dll
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\System.Reflection.Metadata.dll
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\vbc.exe
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\vbc.exe.config
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\vbc.rsp
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\VBCSCompiler.exe
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\roslyn\VBCSCompiler.exe.config
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Mvc.dll.config
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Mvc.dll
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Mvc.pdb
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Dados.dll
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\EntityFramework.dll
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\EntityFramework.SqlServer.dll
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Microsoft.Web.Infrastructure.dll
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Negocios.dll
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Helpers.dll
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Mvc.dll
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Razor.dll
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Webpages.Deployment.dll
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Webpages.dll
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Webpages.Razor.dll
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Utilitarios.dll
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Dominio.dll
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Validacoes.dll
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Dados.pdb
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Dados.dll.config
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Negocios.pdb
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Negocios.dll.config
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Utilitarios.pdb
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\EntityFramework.xml
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\EntityFramework.SqlServer.xml
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Razor.xml
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Webpages.xml
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Webpages.Deployment.xml
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Webpages.Razor.xml
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Helpers.xml
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\System.Web.Mvc.xml
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Dominio.pdb
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Validacoes.pdb
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\bin\Validacoes.dll.config
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\obj\Debug\Mvc.csprojResolveAssemblyReference.cache
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\obj\Debug\Mvc.dll
+E:\g.brand\GabrielBrandao.CrudDemonstracao\Mvc\obj\Debug\Mvc.pdb

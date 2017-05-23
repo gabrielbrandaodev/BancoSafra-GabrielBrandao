@@ -1,0 +1,28 @@
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Dominio\bin\Debug\Dominio.dll
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Dominio\bin\Debug\Utilitarios.dll
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Dominio\bin\Debug\Utilitarios.pdb
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Dominio\obj\Debug\Dominio.dll
+C:\Users\Acer\Documents\Visual Studio 2017\Projects\GabrielBrandao.CrudDemonstracao\Dominio\obj\Debug\Dominio.pdb
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Dominio\bin\Debug\Dominio.dll
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Dominio\bin\Debug\Dominio.pdb
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Dominio\bin\Debug\Utilitarios.dll
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Dominio\bin\Debug\Utilitarios.pdb
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Dominio\obj\Debug\Dominio.dll
+C:\work\g.brand\GabrielBrandao.CrudDemonstracao\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Dominio\bin\Debug\Dominio.dll
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Dominio\bin\Debug\Utilitarios.dll
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Dominio\bin\Debug\Utilitarios.pdb
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Dominio\obj\Debug\Dominio.dll
+C:\Users\Acer\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Dominio\obj\Debug\Dominio.pdb
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Dominio\bin\Debug\Dominio.dll
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Dominio\bin\Debug\Dominio.pdb
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Dominio\bin\Debug\Utilitarios.dll
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Dominio\bin\Debug\Utilitarios.pdb
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Dominio\obj\Debug\Dominio.dll
+C:\Users\analise02\Desktop\g.brand\GabrielBrandao.CrudDemonstracao\Dominio\obj\Debug\Dominio.pdb
