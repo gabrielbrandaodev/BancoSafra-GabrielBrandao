@@ -14,7 +14,12 @@ namespace Repositorio.Repositorios
         public AnimalDomesticoRepositorio(Contexto contexto)
             :base(contexto)
         {
-
+            public IList<AnimalDomestico> RetornarTodosComPessoaCarregado()
+            {
+                return RetornarTodos()
+                    .Include(x => x.Pessoa)
+                    .ToList();
+            }
         }
     }
 }
